@@ -97,7 +97,7 @@ class Contact {
     String phone;
 }
 
-public class Main {
+public class PhoneBook {
     public static void main(String[] args) {
         Scanner scaner = new Scanner(System.in);
         PhoneBook book = new PhoneBook();
